@@ -1,20 +1,77 @@
 # Syncpoint: Staffing Expert Talent
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
-<!-- block: hero.md -->
 
-<!-- block: content.md -->
+| Hero | |
+|---|---|
+| Heading | Talent and Staffing Solutions |
+| Body | Digital transformation demands more than cutting-edge technology — it requires the right people to drive it forward. At Syncpoint, we deliver tailored talent and staff augmentation solutions to fully support your roadmap. Whether you're building internal teams to manage your tech investments or need trusted, vetted experts for key roles, Syncpoint is here to make your vision a reality. |
 
-<!-- block: content.md -->
 
-<!-- block: content.md -->
+| Section Metadata | |
+|---|---|
+| Style | Experience |
 
-<!-- block: content.md -->
+## Experience
 
-<!-- block: content.md -->
+![](/media/services-staffing__67d48dfb432050339da1dfe5_experience.jpg)
 
-<!-- block: content.md -->
+Experience is the foundation upon which many other qualities are built. It reflects a candidate's ability to handle the responsibilities of a role, offering insight into their problem-solving capabilities, adaptability, and industry knowledge. When assessing experience, focus on its depth and relevance to the position, as well as the lessons and expertise they've gained that can directly contribute to your organization's success.
+
+
+| Section Metadata | |
+|---|---|
+| Style | Experience |
+
+## Experience
+
+![](/media/services-staffing__67d48dfb432050339da1dfe5_experience.jpg)
+
+Experience is the foundation upon which many other qualities are built. It reflects a candidate's ability to handle the responsibilities of a role, offering insight into their problem-solving capabilities, adaptability, and industry knowledge. When assessing experience, focus on its depth and relevance to the position, as well as the lessons and expertise they've gained that can directly contribute to your organization's success.
+
+
+| Section Metadata | |
+|---|---|
+| Style | Experience |
+
+## Experience
+
+![](/media/services-staffing__67d48dfb432050339da1dfe5_experience.jpg)
+
+Experience is the foundation upon which many other qualities are built. It reflects a candidate's ability to handle the responsibilities of a role, offering insight into their problem-solving capabilities, adaptability, and industry knowledge. When assessing experience, focus on its depth and relevance to the position, as well as the lessons and expertise they've gained that can directly contribute to your organization's success.
+
+
+| Section Metadata | |
+|---|---|
+| Style | Experience |
+
+## Experience
+
+![](/media/services-staffing__67d48dfb432050339da1dfe5_experience.jpg)
+
+Experience is the foundation upon which many other qualities are built. It reflects a candidate's ability to handle the responsibilities of a role, offering insight into their problem-solving capabilities, adaptability, and industry knowledge. When assessing experience, focus on its depth and relevance to the position, as well as the lessons and expertise they've gained that can directly contribute to your organization's success.
+
+
+| Section Metadata | |
+|---|---|
+| Style | Experience |
+
+## Experience
+
+![](/media/services-staffing__67d48dfb432050339da1dfe5_experience.jpg)
+
+Experience is the foundation upon which many other qualities are built. It reflects a candidate's ability to handle the responsibilities of a role, offering insight into their problem-solving capabilities, adaptability, and industry knowledge. When assessing experience, focus on its depth and relevance to the position, as well as the lessons and expertise they've gained that can directly contribute to your organization's success.
+
+
+| Section Metadata | |
+|---|---|
+| Style | Experience |
+
+## Experience
+
+![](/media/services-staffing__67d48dfb432050339da1dfe5_experience.jpg)
+
+Experience is the foundation upon which many other qualities are built. It reflects a candidate's ability to handle the responsibilities of a role, offering insight into their problem-solving capabilities, adaptability, and industry knowledge. When assessing experience, focus on its depth and relevance to the position, as well as the lessons and expertise they've gained that can directly contribute to your organization's success.
 
 
 | Metadata | |

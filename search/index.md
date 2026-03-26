@@ -1,6 +1,5 @@
 # Syncpoint: Search
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
 
 | Metadata | |

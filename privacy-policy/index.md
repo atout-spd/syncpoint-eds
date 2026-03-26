@@ -1,8 +1,14 @@
 # Syncpoint: Privacy Policy
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
-<!-- block: content.md -->
+
+| Section Metadata | |
+|---|---|
+| Style | PRIVACY POLICY |
+
+## PRIVACY POLICY
+
+This Privacy Notice for Syncpoint Digital LLC ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you visit our website at http://www.syncpointdigital.com, or any website of ours that links to this Privacy Notice, or engage with us in other related ways, including any sales, marketing, or events. Questions or concerns? Contact us at into@syncpointdigital.com.
 
 
 | Metadata | |

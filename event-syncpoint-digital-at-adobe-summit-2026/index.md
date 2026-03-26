@@ -1,10 +1,20 @@
 # Syncpoint Digital at Adobe Summit 2026
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
-<!-- block: hero.md -->
 
-<!-- block: content.md -->
+| Hero | |
+|---|---|
+| Heading | Syncpoint Digital at Adobe Summit 2026 |
+| Subheading | Syncpoint Digital + Adobe Summit. Less code. More impact. Let's talk. |
+| Date Start | April 18, 2025 |
+| Date End | April 22, 2025 |
+
+
+| Section Metadata | |
+|---|---|
+| Style | Let's Connect at Adobe Summit 2026 |
+
+## Let's Connect at Adobe Summit 2026
 
 
 | Metadata | |

@@ -1,6 +1,5 @@
 # insights
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
 
 | Metadata | |

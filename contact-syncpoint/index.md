@@ -1,8 +1,11 @@
 # Syncpoint: Contact Us
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
-<!-- block: hero.md -->
+
+| Hero | |
+|---|---|
+| Heading | Contact Syncpoint |
+| Subheading | Taking the first step is often the most challenging part of any journey. But with excellent partners by your side, we can forge a new Syncpoint that leads to sustainable success. Together, we'll transform initial hurdles into stepping stones, creating a synchronized path toward our shared goals. |
 
 
 | Metadata | |

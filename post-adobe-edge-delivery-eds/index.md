@@ -1,8 +1,12 @@
 # Adobe Edge Delivery (EDS)
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
-<!-- block: content.md -->
+
+| Section Metadata | |
+|---|---|
+| Style | Adobe Edge Delivery (EDS) |
+
+## Adobe Edge Delivery (EDS)
 
 
 | Metadata | |

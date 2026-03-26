@@ -1,6 +1,5 @@
 # Syncpoint Digital: Adobe Consulting Services
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
 
 | Metadata | |

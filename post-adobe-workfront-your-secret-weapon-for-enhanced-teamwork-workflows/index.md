@@ -1,8 +1,10 @@
 # Adobe Workfront: Your Secret Weapon for Enhanced Teamwork & Workflows
 
-<!-- shared-component: navigation (shared/navigation.md) -->
 
-<!-- block: unknown.md -->
+
+| Section | |
+|---|---|
+| Raw Text | Adobe Workfront: Your Secret Weapon for Enhanced Teamwork & Workflows January 27, 2026 • 8 min read Adobe Workfront Thought Leadership All posts Adobe Workfront: Your Secret Weapon for Enhanced Teamwo |
 
 
 | Metadata | |

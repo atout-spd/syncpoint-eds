@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://github.com/atout-spd/syncpoint-eds/tree/main
+    type: markup
